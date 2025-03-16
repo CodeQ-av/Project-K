@@ -38,5 +38,5 @@ def get_video_stats(file_path):
     }
 
 # Replace with your video file path
-file_path = './SampleVideo.mp4'
+file_path = 'SampleVideo.mp4'
 video_stats = get_video_stats(file_path)
