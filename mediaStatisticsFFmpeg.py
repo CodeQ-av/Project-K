@@ -1,5 +1,4 @@
 import ffmpeg
-import json
 
 def get_video_stats(file_path):
     # Get video metadata using ffmpeg

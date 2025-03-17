@@ -58,7 +58,7 @@ def get_video_stats(file_path):
 
 # Example usage
 if __name__ == "__main__":
-    file_path = "SampleVideo.mp4"  # Replace with your file path
+    file_path = "SampleVideo.mp4" 
     stats = get_video_stats(file_path)
     
     # Print formatted output
